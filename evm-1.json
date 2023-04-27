@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "chain_id": 1,
+    "alias": "ethereum",
+    "description": "list of hacked ethereum smart contracts",
+    "created_at": "2023-04-27",
+    "updated_at": "2023-04-27"
+  },
+  "data": {
+    { "address": "0x044b75f554b886a065b9567891e45c79542d7357", "name": "SushiSwap: Route Processor 2" }
+  },
+  "total": 1
+}
