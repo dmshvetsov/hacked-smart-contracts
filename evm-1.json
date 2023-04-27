@@ -6,8 +6,8 @@
     "created_at": "2023-04-27",
     "updated_at": "2023-04-27"
   },
-  "data": {
+  "data": [
     { "address": "0x044b75f554b886a065b9567891e45c79542d7357", "name": "SushiSwap: Route Processor 2" }
-  },
+  ],
   "total": 1
 }
