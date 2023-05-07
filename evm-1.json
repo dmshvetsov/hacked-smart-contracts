@@ -4,10 +4,13 @@
     "alias": "ethereum",
     "description": "list of hacked ethereum smart contracts",
     "created_at": "2023-04-27",
-    "updated_at": "2023-04-27"
+    "updated_at": "2023-05-07"
   },
   "data": [
-    { "address": "0x044b75f554b886a065b9567891e45c79542d7357", "name": "SushiSwap: Route Processor 2" }
+    { "address": "0x044b75f554b886a065b9567891e45c79542d7357", "name": "SushiSwap: Route Processor 2" },
+    { "address": "0xebc29199c817dc47ba12e3f86102564d640cbf99", "name": "Euler Finance" },
+    { "address": "0xde62e1b0edaa55aac5ffbe21984d321706418024", "name": "Dexible" },
+    { "address": "0xceEd34f03A3e607CC04C2d0441C7386b190D7CF4", "name": "Elastic Swap" }
   ],
-  "total": 1
+  "total": 4
 }
